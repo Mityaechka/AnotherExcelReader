@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherExcelReader.Core", "AnotherExcelReader.Core\AnotherExcelReader.Core.csproj", "{522B1721-B1FB-4CAD-B6B2-9F64EDFE05A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherExcelReader.Tests", "AnotherExcelReader\AnotherExcelReader.Tests.csproj", "{DFAE5494-2690-4FB6-90F0-D427AEDAFB58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherExcelReader.Tests", "AnotherExcelReader.Tests\AnotherExcelReader.Tests.csproj", "{DFAE5494-2690-4FB6-90F0-D427AEDAFB58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
